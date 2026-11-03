@@ -1,1 +1,1 @@
-Envie index.html e logo-dominio-preta.png para a raiz do repositorio GitHub Dominioassessoriacontabil. Substitua index.html existente. Mantenha os dois arquivos na mesma pasta.
+Atualização: todos os links gerais de WhatsApp incluem mensagem automática. Links específicos e formulário mantidos. Envie index.html para substituir no GitHub.
