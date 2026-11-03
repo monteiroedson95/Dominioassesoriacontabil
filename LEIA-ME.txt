@@ -1,0 +1,12 @@
+SITE DOMÍNIO ASSESSORIA CONTÁBIL
+
+Arquivos:
+- index.html: site completo
+- logo-dominio-original.png: imagem exata enviada na conversa, sem redesenho
+
+Para publicar: envie os dois arquivos para a raiz do repositório no GitHub e conecte o repositório à Vercel.
+
+Atenção: a imagem recebida tem o padrão quadriculado incorporado ao arquivo, portanto NÃO é um PNG transparente. Para não alterar a identidade, ela foi mantida sem edição, sobre cabeçalho branco. Quando receber o arquivo original transparente, substitua logo-dominio-original.png pelo novo arquivo de mesmo nome.
+
+O formulário abre uma mensagem no WhatsApp; não envia e-mail nem armazena dados.
+Confirme o endereço e o número do WhatsApp com o escritório antes da publicação.
