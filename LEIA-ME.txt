@@ -1,3 +1,9 @@
-SITE DOMÍNIO — VERSÃO COM ANIMAÇÕES
-Envie index.html e logo-dominio-preta.png para a raiz do repositório GitHub, substituindo o index.html anterior.
-Animações leves: entrada do hero, revelação na rolagem, interações em botões e cartões, sombra no menu. Respeita preferência por movimento reduzido.
+SITE DOMÍNIO — AVATAR NO MINICHAT
+
+Envie para a raiz do repositório GitHub estes 4 arquivos:
+index.html
+avatar-atendimento.webp
+favicon-dominio.ico
+logo-dominio-preta.png
+
+O botão flutuante continua com o símbolo do WhatsApp. O avatar aparece no cabeçalho do minichat.
