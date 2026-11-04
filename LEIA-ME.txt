@@ -1,1 +1,3 @@
-Atualização: todos os links gerais de WhatsApp incluem mensagem automática. Links específicos e formulário mantidos. Envie index.html para substituir no GitHub.
+SITE DOMÍNIO — VERSÃO COM ANIMAÇÕES
+Envie index.html e logo-dominio-preta.png para a raiz do repositório GitHub, substituindo o index.html anterior.
+Animações leves: entrada do hero, revelação na rolagem, interações em botões e cartões, sombra no menu. Respeita preferência por movimento reduzido.
